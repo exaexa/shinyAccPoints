@@ -1,0 +1,15 @@
+Package: shinyAccPoints
+Title: WebGL-Accelerated Scatter Plot Widget
+Version: 0.1
+Authors@R: 
+    person(given = "Mirek",
+           family = "Kratochvil",
+           role = c("aut", "cre"),
+           email = "exa.exa@gmail.com")
+Author: Mirek Kratochvil
+Maintainer: Mirek Kratochvil <exa.exa@gmail.com>
+Depends: htmlwidgets
+Description: Provides a scatterplot widget that is useful for showing relatively large pointclouds.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true

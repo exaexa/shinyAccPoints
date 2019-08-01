@@ -1,0 +1,5 @@
+dependencies:
+ - name: threejs
+   version: 2019.08.01
+   src: htmlwidgets
+   script: ./three.min.js
