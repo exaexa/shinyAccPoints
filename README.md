@@ -2,6 +2,8 @@
 
 Current status: Proof-of-concept; will improve soon (zooming!)
 
+![Screenshot](media/screenshot.png "Screenshot")
+
 ## How-to
 
 ```R
